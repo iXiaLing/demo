@@ -7,3 +7,6 @@ Hello Git!
 第二次练习 Markdown
 
 第三次练习 Vim
+
+第四次练习 git commit -am [message]
+
